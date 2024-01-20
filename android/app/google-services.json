@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323262332055",
+    "project_id": "urban-3156d",
+    "storage_bucket": "urban-3156d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323262332055:android:0d8ccc150ce27324b6bdd2",
+        "android_client_info": {
+          "package_name": "com.example.urban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323262332055-ccagdc41g6aje55n0s7mccutfrsfu34e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urban",
+            "certificate_hash": "e2369c5b839a0b15d4cbaa1d03de7bf1f8d88dfd"
+          }
+        },
+        {
+          "client_id": "323262332055-o6a46r2c1j6i0fr2g9ljurq04ar9ucgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB4U_H3_cLCkbjgGnQOf_6ml4fyqwVhCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323262332055-o6a46r2c1j6i0fr2g9ljurq04ar9ucgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

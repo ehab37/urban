@@ -1,0 +1,320 @@
+{
+
+  "home": "الصفحه الرئيسيه",
+
+  "materials": "مواد بناء",
+
+
+  "finishes": "تشطيبات",
+  "constructions": "مقاولات",
+  "products": "منتجات",
+
+
+
+
+  "paints": "دهانات",
+
+  "Oil": "زيت",
+  "Emulsion": "مستحلب",
+  "Enamel": "المينا",
+  "Aluminium": "ألومنيوم",
+  "Plastic": "بلاستيك",
+  "Casein": "الكازين",
+
+  "Cement": "أسمنت",
+  "Bituminous": "بيتومين",
+  "Silicate": "سيليكات",
+  "Anti-Corrosive": "مضاد للتآكل",
+  "Synthetic Rubber": "مطاط صناعي",
+
+
+
+
+  "plumbing": "سباكه",
+
+
+
+
+
+
+  "Kitchen Mixer": "خلاط مطبخ",
+  "Kitchen Sink": "حوض المطبخ",
+  "Bathroom sink mixer": "خلاط حوض الحمام",
+  "Toilet-bases and sinks": "مراحيض وأحواض",
+  "Shower mixer": "خلاط دش",
+  "Shower ruler and head": "دش",
+  "Shower pan": "حوض استحمام ارضى",
+  "Shower inside wall": "دش داخل الجدار",
+  "Bathroom accessories": "اكسسوارات الحمام",
+  "BathTub": "حوض الاستحمام",
+  "Water tap": "حنفيه",
+  "Angle valve": "محبس مياه",
+  "Other pieces": "قطع أخرى",
+  "Kitchen hole covers": "أغطية فتحات المطبخ",
+  "external bidet": "شطاف خارجى",
+
+  "Copper Pipes": "مواسير نحاس",
+  "Galvanised Iron Pipes": "مواسير الحديد المجلفن",
+  "PVC Pipes": "PVC مواسير",
+  "CPVC Pipes": "CPVC مواسير",
+  "PEX pipes": "PEX مواسير",
+  "Soil waste management Pipes": "أنابيب إدارة مخلفات التربة",
+  "Wastewater Pipes": "مواسير الصرف الصحي",
+  "Rainwater Pipes": "مواسير مياه الامطار",
+  "Ventilation Pipes": "أنابيب التهوية",
+  "Cast iron Pipes": "مواسير الحديد الزهر",
+  "Concrete Pipes": "مواسير خرسانية",
+  "Asbestos cement Pipes": "أنابيب الأسمنت الأسبستي",
+  "Stoneware Pipes": "مواسير حجرية",
+  "HDPE Pipes": "HDPE مواسير",
+
+
+
+
+
+  "electricity": "كهرباء",
+
+
+
+
+  "Electric switch": "مفاتيح كهربائية",
+  "Electric face": "وجه كهربائي",
+  "Circuit breaker": "قاطع دائرة",
+  "socket": "قابس كهرباء",
+  "Bell": "جرس",
+  "Light box": "صندوق مضئ",
+  "Lamp": "مصباح",
+  "Chandelier": "نجف",
+  "Spot": "كشاف",
+
+  "Single Conductor Cables": "كابلات موصل واحد",
+  "Non-Metallic Sheathed Cables": "الكابلات المغلفة غير المعدنية",
+  "Armored Cables": "كابلات مصفحة",
+  "Instrumentation Cables": "كابلات الاجهزه",
+  "Low Voltage Cables": "كابلات الجهد المنخفض",
+  "Communications Cables": "كابلات اتصالات",
+
+
+
+
+
+
+
+
+
+
+  "kitchen": "مطابخ",
+
+
+
+
+
+
+  "one-wall": "جدار واحد",
+  "Galley": "مطبخ السفينة",
+  "L-Shape": "L-الشكل",
+  "U-Shape": "U-الشكل",
+  "Island": "جزيرة",
+  "Peninsula": "شبه جزيرة",
+
+
+
+
+  "ceramic": "بلاط",
+
+
+
+
+  "Porcelain": "بورسلين",
+  "Glass": "زجاج",
+  "Marble": "رخام",
+  "Mosaic": "موزايك",
+  "Granite": "جرانيت",
+  "Limestone": "حجر الكلس",
+  "Travertine": "الحجر الجيري",
+  "Quarry": "المحجر",
+  "Metal": "معدن",
+  "Resin": "صمغي",
+
+
+
+
+  "Chemicals": "مواد كيميائيه",
+
+
+
+  "Concrete additives": "المضافات الخرسانية",
+  "Concrete Curing Compounds": "مركبات معالجة الخرسانة",
+  "Polymeric bonding aids": "مساعدات الرابطة البوليمرية",
+  "Polymer modified mortar for repair and maintenance": "مونة بوليمرية معدلة للإصلاح والصيانة",
+  "De-moulding aids": "مساعدات فك القوالب",
+  "Protective and decorative coatings": "الطلاءات الوقائية والزخرفية",
+  "Installation Aids": "مساعدات التثبيت",
+  "Floor hardeners and anti-dust": "مقويات للأرضيات ومضادة للغبار",
+  "High strength non-shrink grout": "قوة عالية غير قابلة للانكماش الجص",
+  "Surface inhibitors for exposed aggregate finishes": "مثبطات السطح للتشطيبات الكلية المكشوفة",
+  "Aids in oyster holding": "مساعد في الاحتفاظ بالمحار",
+  "Ready-made oysters": "محار جاهز",
+  "Waterproofing chemicals": "الكيماويات المقاومة للماء",
+
+
+  "cement and sand": "أسمنت و رمل",
+
+
+
+
+
+  "Sand": "رمل",
+  "Powder": "بودره",
+  "Lime": "جير",
+  "White Gypsum": "الجبس الأبيض",
+  "White Cement": "اسمنت ابيض",
+  "Bricks": "طوب",
+  "Slip": "حصو",
+
+
+
+
+
+
+
+  "Steel": "حديد",
+
+  "skewers": "أسياخ",
+  "Tie wire": "سلك رباط",
+
+
+
+
+  "price": "السعر",
+  "name": "الإسم",
+  "details": "التفاصيل",
+  "quantity": "الكميه",
+  "White Color": "اللون الأبيض",
+  "Another Color": "لون آخر",
+  "color code": "كود اللون",
+  "add to cart": "إضافه إلى السله",
+  "add product": "إضافه المنتج",
+
+  "Equipments": "معدات",
+  "Mixer Truck": "شاحنة خلاط",
+  "Trailer Concrete Pump": "مضخة الخرسانة لعربة مقطورة",
+  "Mobile Placing Boom": "ناقله محموله",
+  "Loader": "لودر",
+  "Bulldozer": "جرافة",
+  "excavator": "حفارة",
+  "Mobile Crane": "رافعة متحركة",
+  "Truck Pump": "مضخة الشاحنة",
+
+
+  "capacity": "سعة",
+  "brand": "ماركة",
+  "pressure": "الضغط",
+  "output": "انتاج",
+  "power": "قوة",
+  "length Of Boom": "طول بوم",
+  "number Of Boom": "عدد بوم",
+  "engine": "محرك",
+  "load": "حمل",
+  "weight": "وزن",
+  "extended Boom": "تمديد بوم",
+  "reach": "تصل إلى",
+  "price per day": "السعر في اليوم",
+  "total price": "السعر الكلي",
+  "per day": "فى اليوم",
+  "city": "المدينه",
+  "phone": "الهاتف",
+  "enter": "أدخل",
+
+  "select image": "إختر صوره",
+  "wrong try again": "خطأ حاول مره أخرى",
+  "upload done": "تم التحميل",
+  "added to cart": "تمت الإضافه الى السله",
+  "deleting done": "تمت الازاله بنجاح",
+  "Loading":"جارٍٍ التحميل",
+  "are you sure":"هل أنت متأكد ؟",
+  "yes": "نعم",
+  "no": "لا",
+  "days": "عدد الأيام",
+  "date": "التاريخ",
+  "delete": "حذف",
+
+
+  "buy": "شراء",
+  "cart": "سله التسوق",
+  "selling": "المشتريات",
+  "waiting": "الإنتظار",
+  "waiting price": "فى إنتظار السعر...",
+  "cash": "كاش",
+  "visa": "فيزا",
+  "not available": "غير متوفر",
+  "ordered": "تم الطلب",
+  "done": "تم",
+  "close": "إغلاق",
+  "order": "طلب",
+  "L.E": "جنيه",
+  "card number": "رقم الكارت",
+  "card date": "تاريخ الكارت",
+  "card cvv": "Card Cvv",
+  "card name": "الإسم بالكارت",
+  "orders": "الطلبات",
+  "we will contact with u": "سوف يتم التواصل معك قريبا لتأكيد طلبك",
+  "cancel": "إلغاء",
+  "payment": "الدفع",
+  "accept": "قبول",
+  "accepted": "تم القبول",
+  "refuse": "رفض",
+  "request worker": "طلب عامل",
+  "workers": "العمال",
+  "requested": "تم الطلب",
+  "requesting": "جار الطلب...",
+  "category": "الفئه",
+  "worker phone": "رقم العامل",
+  "time": "الوقت",
+  "add worker": "إضافه عامل",
+  "select worker": "ترشيح عامل",
+  "selecting": "ترشيح",
+  "you must select worker": "يجب إختيار عامل",
+
+
+  "carpenter": "نجار",
+  "blacksmith": "حداد",
+  "plumber": "سباك",
+  "electrician": "كهربائى",
+  "tiler": "مبلط سيراميك",
+  "plasterer": "مبيض محاره",
+
+  "conditioning technician": "فنى تكييف",
+  "home appliance technician": "فنى أجهزه منزليه",
+  "satellite technician": "فنى دش",
+
+
+
+  "experts": "الخبراء",
+  "messages": "الرسائل",
+  "new message": "رساله جديده",
+  "language": "اللغه",
+  "log out": "تسجيل خروج",
+  "welcome": "مرحبا",
+  "please login": "من فضلك قم بتسجيل الدخول لكى تتمكن من استخدام التطييق",
+  "login": "تسجيل دخول",
+  "signUp": "إنشاء حساب",
+  "email": "البريد الإلكترونى",
+  "password": "كلمه السر",
+  "forget password": "نسيت كلمه السر ؟ ",
+  "remember me": "تذكرنى",
+  "change": "تغيير",
+  "admin": "مدير",
+  "requests": "طلبات العمال",
+  "settings": "الإعدادات",
+  "wrong name": "خطأ فى الإسم",
+  "change name": "تغيير الإسم",
+  "change phone": "تغيير رقم الهاتف",
+  "change photo": "تغيير الصوره الشخصيه",
+  "change password": "تغيير كلمه السر",
+  "update done": "تم تحديث البيانات",
+  "code":"الكود",
+  "profile": "الصفحه الشخصيه",
+  "code sent message": "تم إرسال الكود الى بريدك الاإلكترونى :",
+  "addWorker": "إضافه عامل"
+}

@@ -1,0 +1,313 @@
+{"materials": "materials", "finishes": "finishes", "constructions": "constructions", "products": "products", "home": "Home",
+
+
+
+
+
+  "paints": "paints",
+
+  "Oil": "Oil",
+  "Emulsion": "Emulsion",
+  "Enamel": "Enamel",
+  "Aluminium": "Aluminium",
+  "Plastic": "Plastic",
+  "Casein": "Casein",
+
+  "Cement": "Cement",
+  "Bituminous": "Bituminous",
+  "Silicate": "Silicate",
+  "Anti-Corrosive": "Anti-Corrosive",
+  "Synthetic Rubber": "Synthetic Rubber",
+
+
+
+
+
+
+
+
+  "plumbing": "plumbing",
+
+  "Kitchen Mixer": "Kitchen Mixer",
+  "Kitchen Sink": "Kitchen Sink",
+  "Bathroom sink mixer": "Bathroom sink mixer",
+  "Toilet-bases and sinks": "Toilet-bases and sinks",
+  "Shower mixer": "Shower mixer",
+  "Shower ruler and head": "Shower ruler and head",
+  "Shower pan": "Shower pan",
+  "Shower inside wall": "Shower inside wall",
+  "Bathroom accessories": "Bathroom accessories",
+  "BathTub": "BathTub",
+  "Water tap": "Water tap",
+  "Angle valve": "Angle valve",
+  "Other pieces": "Other pieces",
+  "Kitchen hole covers": "Kitchen hole covers",
+  "external bidet": "external bidet",
+
+  "Copper Pipes": "Copper Pipes",
+  "Galvanised Iron Pipes": "Galvanised Iron Pipes",
+  "PVC Pipes": "PVC Pipes",
+  "CPVC Pipes": "CPVC Pipes",
+  "PEX pipes": "PEX pipes",
+  "Soil waste management Pipes": "Soil waste management Pipes",
+  "Wastewater Pipes": "Wastewater Pipes",
+  "Rainwater Pipes": "Rainwater Pipes",
+  "Ventilation Pipes": "Ventilation Pipes",
+  "Cast iron Pipes": "Cast iron Pipes",
+  "Concrete Pipes": "Concrete Pipes",
+  "Asbestos cement Pipes": "Asbestos cement Pipes",
+  "Stoneware Pipes": "Stoneware Pipes",
+  "HDPE Pipes": "HDPE Pipes",
+
+
+
+
+
+
+
+
+  "electricity": "electricity",
+
+
+  "Electric switch": "Electric switch",
+  "Electric face": "Electric face",
+  "Circuit breaker": "Circuit breaker",
+  "socket": "socket",
+  "Bell": "Bell",
+  "Light box": "Light box",
+  "Lamp": "Lamp",
+  "Chandelier": "Chandelier",
+  "Spot": "Spot",
+
+  "Single Conductor Cables": "Single Conductor Cables",
+  "Non-Metallic Sheathed Cables": "Non-Metallic Sheathed Cables",
+  "Armored Cables": "Armored Cables",
+  "Instrumentation Cables": "Instrumentation Cables",
+  "Low Voltage Cables": "Low Voltage Cables",
+  "Communications Cables": "Communications Cables",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "kitchen": "kitchen",
+
+  "one-wall": "one-wall",
+  "Galley": "Galley",
+  "L-Shape": "L-Shape",
+  "U-Shape": "U-Shape",
+  "Island": "Island",
+  "Peninsula": "Peninsula",
+
+
+
+
+
+
+
+  "ceramic": "ceramic",
+
+  "Porcelain": "Porcelain",
+  "Glass": "Glass",
+  "Marble": "Marble",
+  "Mosaic": "Mosaic",
+  "Granite": "Granite",
+  "Limestone": "Limestone",
+  "Travertine": "Travertine",
+  "Quarry": "Quarry",
+  "Metal": "Metal",
+  "Resin": "Resin",
+
+
+
+
+
+
+  "Chemicals": "chemicals",
+
+  "Concrete additives": "Concrete additives",
+  "Concrete Curing Compounds": "Concrete Curing Compounds",
+  "Polymeric bonding aids": "Polymeric bonding aids",
+  "Polymer modified mortar for repair and maintenance": "Polymer modified mortar for repair and maintenance",
+  "De-moulding aids": "De-moulding aids",
+  "Protective and decorative coatings": "Protective and decorative coatings",
+  "Installation Aids": "Installation Aids",
+  "Floor hardeners and anti-dust": "Floor hardeners and anti-dust",
+  "High strength non-shrink grout": "High strength non-shrink grout",
+  "Surface inhibitors for exposed aggregate finishes": "Surface inhibitors for exposed aggregate finishes",
+  "Aids in oyster holding": "Aids in oyster holding",
+  "Ready-made oysters": "Ready-made oysters",
+  "Waterproofing chemicals": "Waterproofing chemicals",
+
+
+
+
+  "cement and sand": "cement and sand",
+
+  "Sand": "Sand",
+  "Powder": "Powder",
+  "Lime": "Lime",
+  "White Gypsum": "White Gypsum",
+  "White Cement": "White Cement",
+  "Bricks": "Bricks",
+  "Slip": "Slip",
+
+
+
+
+
+
+
+  "Steel": "Steel",
+  "skewers": "skewers",
+  "Tie wire": "Tie wire",
+
+
+
+
+
+  "price": "price",
+  "name": "name",
+  "details": "details",
+  "quantity": "quantity",
+  "White Color": "White Color",
+  "Another Color": "Another Color",
+  "color code": "color code",
+  "add to cart": "add to cart",
+  "add product": "add product",
+
+  "Equipments": "Equipments",
+  "Mixer Truck": "Mixer Truck",
+  "Trailer Concrete Pump": "Trailer Concrete Pump",
+  "Mobile Placing Boom": "Mobile Placing Boom",
+  "Loader": "Loader",
+  "Bulldozer": "Bulldozer",
+  "excavator": "excavator",
+  "Mobile Crane": "Mobile Crane",
+  "Truck Pump": "Truck Pump",
+
+
+  "capacity": "capacity",
+  "brand": "brand",
+  "pressure": "pressure",
+  "output": "output",
+  "power": "power",
+  "length Of Boom": "length Of Boom",
+  "number Of Boom": "number Of Boom",
+  "engine": "engine",
+  "load": "load",
+  "weight": "weight",
+  "extended Boom": "extended Boom",
+  "reach": "reach",
+  "price per day": "price per day",
+  "total price": "total price",
+  "per day": "per day",
+  "city": "city",
+  "phone": "phone",
+  "enter": "enter",
+
+
+
+
+
+  "select image": "select image",
+  "wrong try again": "wrong try again",
+  "upload done": "upload done",
+  "added to cart": "added to cart",
+  "deleting done": "deleting done",
+  "Loading":"Loading...",
+  "are you sure":"Are You sure ?",
+  "yes": "Yes",
+  "no": "No",
+  "days": "num of days",
+  "date": "date",
+  "delete": "delete",
+
+  "buy": "buy",
+  "cart": "cart",
+  "selling": "selling",
+  "waiting": "waiting",
+  "waiting price": "waiting price...",
+  "cash": "Cash",
+  "visa": "Visa",
+  "not available": "not available",
+  "ordered": "ordered",
+  "done": "Done",
+  "close": "close",
+  "order": "Order",
+  "L.E": "L.E",
+
+  "card number": "Card Number",
+  "card date": "Card Date",
+  "card cvv": "Card Cvv",
+  "card name": "Card Name",
+  "orders": "Orders",
+  "we will contact with u": "we will contact with u soon to approve your order",
+  "cancel": "cancel",
+  "payment": "payment",
+  "accept": "accept",
+  "accepted": "accepted",
+  "refuse": "refuse",
+  "request worker": "request worker",
+  "workers": "workers",
+  "requested": "requested",
+  "requesting": "requesting...",
+
+  "category": "category",
+  "worker phone": "worker phone",
+  "time": "time",
+  "add worker": "add worker",
+  "select worker": "select worker",
+  "selecting": "selecting",
+  "you must select worker": "you must select worker",
+
+
+  "carpenter": "carpenter",
+  "blacksmith": "blacksmith",
+  "plumber": "plumber",
+  "electrician": "electrician",
+  "tiler": "tiler",
+  "plasterer": "plasterer",
+
+  "conditioning technician": "conditioning technician",
+  "home appliance technician": "home appliance technician",
+  "satellite technician": "satellite technician",
+  "experts": "Experts",
+  "messages": "Messages",
+  "new message": "new message",
+  "language": "Language",
+  "log out": "Log Out",
+  "welcome": "welcome",
+  "please login": "please login or signUp to continue using our app",
+  "login": "Login",
+  "signUp": "SignUp",
+  "email": "Email",
+  "password": "password",
+  "forget password": "forget password ? ",
+  "remember me": "remember me",
+  "change": "change",
+  "admin": "admin",
+  "requests": "Workers Requests",
+  "change name": "Change Name",
+  "change phone": "Change Phone",
+  "change photo": "Change Profile Photo",
+  "change password": "Change password",
+  "settings": "settings",
+  "wrong name": "wrong name",
+  "update done": "Data Updated",
+  "code": "code",
+  "profile": "profile",
+  "code sent message": "the password code had been sent to your email :",
+  "addWorker": "add worker"
+}
